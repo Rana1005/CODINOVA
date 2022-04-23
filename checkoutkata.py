@@ -1,7 +1,3 @@
-from itertools import count
-
-from matplotlib.style import available
-
 def checkout(items, cost):
     AddCart=[]
     price=0
